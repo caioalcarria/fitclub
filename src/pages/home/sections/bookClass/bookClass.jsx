@@ -5,8 +5,8 @@ export const BookClass = () => {
       <BookClassStyle>
           <div className="container">
             <div className="images">
-                  <img className="back" src="/public/class-1.jpg" alt="" />
-                  <img className="front" src="/public/class-2.jpg" alt="" />
+                  <img className="back" src="/class-1.jpg" alt="" />
+                  <img className="front" src="/class-2.jpg" alt="" />
             </div>
             <div className="content">
                 <div className="text">
